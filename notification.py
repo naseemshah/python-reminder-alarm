@@ -28,3 +28,5 @@ def find(h,m):
 
 def alarm():
     playsound('audio.mp3')
+
+while(loop)
